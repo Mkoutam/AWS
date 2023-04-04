@@ -1,0 +1,17 @@
+#
+#server:
+#  port: 9090
+#
+#cloud:
+#  aws:
+#    credentials:
+#      access-key: AKIATEUTYXBZQ4KANDGL
+#      secret-key: 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
+#    region:
+#      static: us-east-1
+#    stack:
+#      auto: false
+#
+#application:
+#  bucket:
+#    name: demo-s3-mon
